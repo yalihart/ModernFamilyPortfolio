@@ -1,0 +1,84 @@
+body {
+  background-color: white;
+  margin: 0;
+}
+
+.header {
+  background: linear-gradient(90.32deg, #a18cd1 0%, #fbc2eb 99.45%);
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+.header-text {
+  font-size: 50px;
+  color: black;
+  text-align: center;
+  font-family: "JetBrains Mono", monospace;
+}
+
+.content-card {
+  margin: auto;
+  width: 95%;
+  height: 85%;
+  background: linear-gradient(90.32deg, #a18cd1 0%, #fbc2eb 99.45%);
+  border-radius: 10px;
+  padding: 15px;
+}
+
+.about-sec {
+  width: 45%;
+  float: left;
+}
+
+h3 {
+  padding-left: 10px;
+  font-size: 40px;
+  color: black;
+  text-align: left;
+  font-family: "JetBrains Mono", monospace;
+}
+
+h4 {
+  padding-left: 10px;
+  font-size: 35px;
+  color: black;
+  text-align: left;
+  font-family: "JetBrains Mono", monospace;
+}
+
+li {
+  padding-bottom: 10px;
+  font-size: 20px;
+  color: black;
+  text-align: left;
+  font-family: "PT Sans", sans-serif;
+}
+
+.char-desc {
+  padding-left: 10px;
+  font-size: 24px;
+  color: black;
+  text-align: left;
+  font-family: "PT Sans", sans-serif;
+}
+
+.family-picture {
+  margin: 2.3%;
+  border-radius: 10px;
+  width: 40%;
+  height: auto;
+  float: right;
+}
+
+a:link {
+  font-weight: bold;
+  color: #141f1f;
+}
+
+a:visited {
+  font-weight: bold;
+  color: #141f1f;
+}
