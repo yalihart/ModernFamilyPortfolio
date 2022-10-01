@@ -18,6 +18,8 @@ Live Demo: https://yalihart.github.io/ModernFamilyPortfolio/
 
 
 ## Features
+![image](https://user-images.githubusercontent.com/103864355/193423399-3d6918ad-141b-4304-a16b-b2b5f4906f09.png)
+
 ![image](https://user-images.githubusercontent.com/103864355/193423296-918db5a7-04d5-4ca5-a492-93ca661067fa.png)
 
 
