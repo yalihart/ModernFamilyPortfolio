@@ -17,6 +17,10 @@ Live Demo: https://yalihart.github.io/ModernFamilyPortfolio/
 ![ModernFamProfDemo](https://user-images.githubusercontent.com/103864355/193421717-cadd1dd2-9a7f-4fe0-b1d2-79e9f7320345.gif)
 
 
+## Features
+![image](https://user-images.githubusercontent.com/103864355/193423296-918db5a7-04d5-4ca5-a492-93ca661067fa.png)
+
+
 ## Run Locally
 
 Clone the project
