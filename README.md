@@ -1,16 +1,21 @@
 
-# Modern Family Portfolio
+# Modern Family Portfolio (Revised)
 
 A project made while learning HTML &amp; CSS in High School. A Family portfolio allowing users to click on family members to get more information about them.
 Using the Modern Family Dunphy family as a placeholder.
 
+## Revised 
+### Made Requested Changes
+Made index.html person avatars of type li inside ul (retained original style by making list horizontal)
+
+Added image/icon button on person pages to return home
 
 ## Authors
 
 - [@yalihart](https://www.github.com/yalihart)
 
 
-## Demo
+## Demo (Not Revised)
 
 Live Demo: https://yalihart.github.io/ModernFamilyPortfolio/
 
