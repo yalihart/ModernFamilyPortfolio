@@ -8,6 +8,13 @@ body {
   width: 100%;
 }
 
+#home-icon {
+  padding: 0.5%;
+  width: 3rem;
+  height: auto;
+  position: absolute;
+}
+
 a {
   text-decoration: none;
 }
